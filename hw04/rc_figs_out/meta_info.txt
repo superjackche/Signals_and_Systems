@@ -1,0 +1,7 @@
+RC 低通仿真参数与文件说明
+use_physical=False
+alpha=6.283185e+02
+fc≈100.000 Hz
+fs=10000 Hz
+图像文件: single_frequency_time.png, multi_frequency_time.png, various_inputs.png, first_vs_second_order_500Hz.png, bode.png
+数据: amplitude_phase_table.(csv|txt)

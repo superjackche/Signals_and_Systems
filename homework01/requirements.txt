@@ -1,0 +1,4 @@
+numpy>=1.26
+matplotlib>=3.8
+# 可选：若系统已安装Visual C++ Build Tools，则可装此包实现无压缩播放
+# simpleaudio>=1.0.4

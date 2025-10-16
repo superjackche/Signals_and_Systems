@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Outputs（保留产物以便提交）
+# 如需忽略，请改回：homework01/outputs/
